@@ -15,7 +15,6 @@ public class _05Fibonnacci {
 		
 		int n0 = 0;
 		int n1 = 1; 
-		//int n2 = n0 + n1;
 		
 		System.out.println("Fibonacci sequence :");
 		System.out.printf("%d, %d, ",n0, n1);
