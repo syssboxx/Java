@@ -1,0 +1,13 @@
+import java.util.HashMap;
+
+
+public class ColorStore {
+	
+	private static HashMap<String,Color>colorMap = new HashMap<String, Color>();
+	
+	colorMap.put("red",new Red());
+	colorMap.put("green", new Green());
+	
+	
+
+}

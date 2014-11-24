@@ -1,0 +1,27 @@
+
+public class CurrencyFactory {
+
+	public static Currency getCurrencyByCountry(String country) throws Exception{
+        
+        if("BG".equalsIgnoreCase(country)){
+            return new Bulgaria();
+        } else if("US".equalsIgnoreCase(country)){
+            return new Usa();
+        }else if("DE".equalsIgnoreCase(country)){
+        	return new Germany();
+        }
+        throw new Exception("Invalid country...");
+    }
+}
+
+public static void main(String a[]){
+    Currency bulgaria;
+    try {
+        bulgaria = CurrencyFactory.getCurrencyByCountry("BG");
+        System.out.println("Bulgarian currency: "+bulgaria.getCurrency());
+        System.out.println("Bulgarian currency symbol: "+bulgaria.getSymbol());
+    } catch (Exception e) {
+        e.printStackTrace();
+    }
+}
+

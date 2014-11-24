@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Currency"/>
+<fullyQualifiedTypeName name="Gemany"/>
+<fullyQualifiedTypeName name="Usa"/>
+<fullyQualifiedTypeName name="Button"/>
+<fullyQualifiedTypeName name="WindowsButton"/>
+<fullyQualifiedTypeName name="MacButton"/>
+<fullyQualifiedTypeName name="Color"/>
+<fullyQualifiedTypeName name="AbstractFactory"/>
+<fullyQualifiedTypeName name="AbstractButtonFactory"/>
+<fullyQualifiedTypeName name="CameraBuilder"/>
+<fullyQualifiedTypeName name="Packing"/>
+<fullyQualifiedTypeName name="Bottle"/>
+<fullyQualifiedTypeName name="Burger"/>
+<fullyQualifiedTypeName name="ColdDrink"/>
+<fullyQualifiedTypeName name="ChichenBurger"/>
+<fullyQualifiedTypeName name="java.lang.Cloneable"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="Employee"/>
+<fullyQualifiedTypeName name="Trip"/>
+<fullyQualifiedTypeName name="Cricket"/>
+<fullyQualifiedTypeName name="Football"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="PackageA"/>
+<fullyQualifiedTypeName name="Behaviour"/>
+<fullyQualifiedTypeName name="Observer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="BinaryObserver"/>
+<fullyQualifiedTypeName name="ComputerPart"/>
+<fullyQualifiedTypeName name="Keyboard"/>
+<fullyQualifiedTypeName name="ComputerPartVisitor"/>
+</qualifiedTypeNameHistroy>

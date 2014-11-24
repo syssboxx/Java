@@ -1,0 +1,13 @@
+
+public class CameraOnlineSeller {
+
+	//ordering camera
+	public static void main(String a[]){
+    CameraMaker cm = new CameraMaker();
+    System.out.println("Creating camara with optical zoom...");
+    CameraBuilder ozcb = new OpticalZoomCameraBuilder();
+    cm.setCameraBuilder(ozcb);
+    cm.constructCamera();
+    Camera cam = cm.getCamera();
+    }
+

@@ -1,0 +1,16 @@
+INDEX VERSION 1.126+C:\STACY\tutorials\_COURSES\IT-talents\27 Design patterns\_DesignPatternsExamples\.metadata\.plugins\org.eclipse.jdt.core
+3461136891.index
+2268119641.index
+480408157.index
+1091347983.index
+1968463636.index
+3400136815.index
+3245952837.index
+812964184.index
+3766177579.index
+3814551627.index
+3062447106.index
+4202520094.index
+4214782821.index
+4288626333.index
+475043301.index

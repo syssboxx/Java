@@ -1,0 +1,17 @@
+
+public class CurrencyFactory {
+
+	public static Currency getCurrencyByCountry(String country) throws Exception{
+        
+        if("BG".equalsIgnoreCase(country)){
+            return new Bulgaria();
+        } else if("US".equalsIgnoreCase(country)){
+            return new Usa();
+        }else if("DE".equalsIgnoreCase(country)){
+        	return new Gemany();
+        }
+        throw new Exception("Invalid country...");
+    }
+}
+
+

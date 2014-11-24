@@ -1,0 +1,19 @@
+import java.util.ArrayList;
+
+
+public class Meal {
+
+	ArrayList<Item> meal = new ArrayList<Item>();
+	
+	public void addItem(Item item){
+		meal.add(item);
+	}
+	
+	public void showItems(){
+		
+	}
+	
+	public double getCost(){
+		return 0;
+	}
+}
