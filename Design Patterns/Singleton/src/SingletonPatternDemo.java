@@ -5,8 +5,11 @@ public class SingletonPatternDemo {
 		
 		 //Get the only object available
 	      SingleObject object = SingleObject.getInstance();
-
-	      object.showMessage();
+		  
+		  object.showMessage();
+		  
+		  //singleton by enum
+		  SingleObjectEnum.INSTANCE.showMessage();
 
 	}
 }
